@@ -15,4 +15,4 @@ jobs:
         with:
           owner: P3TERX
           base: master
-          head: main
+          head: master
