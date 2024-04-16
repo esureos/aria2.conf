@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.9
         with:
-          owner: P3TERX
-          base: main
-          head: master
+          # owner: P3TERX
+          base: master
+          head: main
